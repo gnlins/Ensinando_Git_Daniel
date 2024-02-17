@@ -1,1 +1,1 @@
-print 'hello world'
+print ('teste feito de novo')
